@@ -43,7 +43,7 @@
         "method": "POST",
         "headers": {
           "Content-Type": "application/json",
-          "Authorization": "Bearer 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"
+          "Authorization": "Bearer sk-xxxx"
         },
         "bodyParameters": {
           "model": "gpt-3.5-turbo",
