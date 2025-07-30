@@ -7,3 +7,5 @@ USER node
 ENV GENERIC_TIMEZONE=Asia/Kolkata
 
 COPY workflow.json /home/node/.n8n/workflows.json
+# Start n8n
+CMD ["n8n"]
